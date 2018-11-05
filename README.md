@@ -12,8 +12,11 @@ The goals / steps of this project are the following:
 * Implement a sliding-window technique and use your trained classifier to search for vehicles in images.
 * Run your pipeline on a video stream (start with the test_video.mp4 and later implement on full project_video.mp4) and create a heat map of recurring detections frame by frame to reject outliers and follow detected vehicles.
 * Estimate a bounding box for vehicles detected.
+
 The final result of Vehicle Detection is here:
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=CDunUgPDAyY/0.jpg)](https://www.youtube.com/watch?v=CDunUgPDAyY)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CDunUgPDAyY/0.jpg)](https://www.youtube.com/watch?v=CDunUgPDAyY)
+
+
 
 [//]: # (Image References)
 [image1]: ./output_images/car_noncar_example.png
